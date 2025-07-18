@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanushreer-7&label=Profile%20views&color=0e75b6&style=flat" alt="tanushreer-7" /> </p>
 
-- 🌱 I’m currently learning **Full Stack**
+- 🌱 I’m currently learning **Tableau**
 
 - 💬 Ask me about **C++, JAVA, Python**
 
 - 📫 How to reach me **tanushreer222@gmail.com**
 
-- ⚡ Fun fact **I am in introverted learner!**
+- ⚡ Fun fact **I also an photographer!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
