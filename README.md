@@ -1,14 +1,14 @@
 [![MasterHead](https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif)](https://tanushreer-7.io)
 
 <h1 align="center">Hi 👋, I'm Tanushree R</h1>
-<h3 align="center">A passionate learner from India</h3>
+<h3 align="center">A passionate learner!</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanushreer-7&label=Profile%20views&color=0e75b6&style=flat" alt="tanushreer-7" /> </p>
 
-- 🌱 I’m currently learning **Tableau**
+- 🌱 I’m currently learning **Power BI**
 
-- 💬 Ask me about **C++, JAVA, Python**
+- 💬 Ask me about **JAVA, Python, C++**
 
 - 📫 How to reach me **tanushreer222@gmail.com**
 
